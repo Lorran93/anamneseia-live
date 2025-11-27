@@ -1,4 +1,4 @@
-const WEBHOOK_URL = 'https://webhook.anamneseia.com/webhook/c27321e5-96d8-4ce0-a521-16de0511e4ac';
+const WEBHOOK_URL = 'https://n8n.anamneseia.com/webhook-test/c27321e5-96d8-4ce0-a521-16de0511e4ac';
 
 export interface WebhookPayload {
   session_id: string;
